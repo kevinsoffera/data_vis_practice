@@ -73,3 +73,4 @@ my_layout = {
 
 fig = {'data': data, 'layout': my_layout}
 offline.plot(fig, filename='hn_submissions.html')
+
